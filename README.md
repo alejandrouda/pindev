@@ -10,6 +10,9 @@ You can test the demo on the career builder page: https://halden-careers-page.ne
 
 To review the full workflow, you will need access to the builder page's repository
 
+Loom video (part 1): https://www.loom.com/share/89b1f3ab28014d7a8ff1b10fb2d536a3
+Loom video (part 2): https://www.loom.com/share/d77c3976528c4b958ee5f8944456b589
+
 ---
 
 ## Setup
@@ -22,10 +25,6 @@ The system is one n8n workflow (`Pindev.json`) plus a Google Sheet and a GitHub 
    - **Anthropic API** (used by the agents)
    - **GitHub API** (a token with Contents and Pull requests read/write on your repo)
    - **Google Sheets** (OAuth, for the status sheet)
-
-3. **Point it at your resources:** set your repo owner/name (branch `main`) in the GitHub nodes, and your sheet in the *Append row* node. The sheet needs these headers in row 1: `Request ID`, `Title`, `Description`, `Status`, `Requester`, `Timestamp`.
-
-No secrets are stored in `Pindev.json`; you plug in your own.
 
 ---
 
