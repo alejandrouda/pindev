@@ -6,13 +6,17 @@ A customer describes what they want (add an About Us section, add a Meta pixel, 
 
 The demo careers site belongs to a fictional hotel group, Halden. The page is defined as data (`careers-page.json`, a list of blocks), so a change is a structured edit to that file plus one HTML file per custom block.
 
-You can test the demo on the career builder page: https://halden-careers-page.netlify.app/builder
+- Workflow url (please share the emails I should grant access to): https://audaquiola.app.n8n.cloud/workflow/0JaHPiqTXqRBWJpN
+- You can test the demo on the career builder page: https://halden-careers-page.netlify.app/builder
+
+- Loom video (part 1): https://www.loom.com/share/89b1f3ab28014d7a8ff1b10fb2d536a3
+- Loom video (part 2): https://www.loom.com/share/d77c3976528c4b958ee5f8944456b589
 
 To review the full workflow, you will need access to the builder page's repository
 
-Loom video (part 1): https://www.loom.com/share/89b1f3ab28014d7a8ff1b10fb2d536a3
+In the agent chat, you can also enable the "Test workflow" mode, which will run the request on the webhook test url
 
-Loom video (part 2): https://www.loom.com/share/d77c3976528c4b958ee5f8944456b589
+<img width="418" height="677" alt="Screenshot 2026-09-08 at 23 00 01" src="https://github.com/user-attachments/assets/18b488e5-29a2-4168-91be-4a346fee7a13" />
 
 ---
 
