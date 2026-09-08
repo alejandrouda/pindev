@@ -8,7 +8,7 @@ The demo careers site belongs to a fictional hotel group, Halden. The page is de
 
 You can test the demo on the career builder page: https://halden-careers-page.netlify.app/builder
 
-To review the full workflow, I will grant you access to the builder page's repository
+To review the full workflow, you will need access to the builder page's repository
 
 ---
 
