@@ -6,6 +6,8 @@ A customer describes what they want (add an About Us section, add a Meta pixel, 
 
 The demo careers site belongs to a fictional hotel group, Halden. The page is defined as data (`careers-page.json`, a list of blocks), so a change is a structured edit to that file plus one HTML file per custom block.
 
+Career builder page: https://halden-careers-page.netlify.app/builder
+
 ---
 
 ## Setup
