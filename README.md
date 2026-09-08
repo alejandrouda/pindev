@@ -11,6 +11,7 @@ You can test the demo on the career builder page: https://halden-careers-page.ne
 To review the full workflow, you will need access to the builder page's repository
 
 Loom video (part 1): https://www.loom.com/share/89b1f3ab28014d7a8ff1b10fb2d536a3
+
 Loom video (part 2): https://www.loom.com/share/d77c3976528c4b958ee5f8944456b589
 
 ---
