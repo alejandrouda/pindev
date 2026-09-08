@@ -12,7 +12,7 @@ The demo careers site belongs to a fictional hotel group, Halden. The page is de
 - Loom video (part 1): https://www.loom.com/share/89b1f3ab28014d7a8ff1b10fb2d536a3
 - Loom video (part 2): https://www.loom.com/share/d77c3976528c4b958ee5f8944456b589
 
-To review the full workflow, you will need access to the builder page's repository
+To review the full workflow, you will need access to the builder page's repository. Please share the emails I should grant access to.
 
 In the agent chat, you can also enable the "Test workflow" mode, which will run the request on the webhook test url
 
