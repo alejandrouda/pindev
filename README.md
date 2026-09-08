@@ -16,7 +16,7 @@ To review the full workflow, you will need access to the builder page's reposito
 
 In the agent chat, you can also enable the "Test workflow" mode, which will run the request on the webhook test url
 
-<img width="418" height="677" alt="Screenshot 2026-09-08 at 23 00 01" src="https://github.com/user-attachments/assets/18b488e5-29a2-4168-91be-4a346fee7a13" />
+<img width="334" height="542" alt="Screenshot 2026-09-08 at 23 00 01" src="https://github.com/user-attachments/assets/18b488e5-29a2-4168-91be-4a346fee7a13" />
 
 ---
 
