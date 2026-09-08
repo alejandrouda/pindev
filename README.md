@@ -20,17 +20,6 @@ In the agent chat, you can also enable the "Test workflow" mode (under the setti
 
 ---
 
-## How it works
-
-![Architecture](workflow_diagram.png)
-
-Two sources of truth, kept separate:
-
-- **GitHub** holds the code: `careers-page.json` (the page as an ordered list of blocks) and one `blocks/{block.id}.html` per custom block. Changes go through a pull request.
-- **A Google Sheet** (`pindev_requests`) is the runtime database: a row per request so the customer can track status.
-
----
-
 ## Setup
 
 The system is one n8n workflow (`Pindev.json`) plus a Google Sheet and a GitHub repo.
@@ -43,6 +32,15 @@ The system is one n8n workflow (`Pindev.json`) plus a Google Sheet and a GitHub 
    - **Google Sheets** (OAuth, for the status sheet)
 
 ---
+
+## How it works
+
+![Architecture](workflow_diagram.png)
+
+Two sources of truth, kept separate:
+
+- **GitHub** holds the code: `careers-page.json` (the page as an ordered list of blocks) and one `blocks/{block.id}.html` per custom block. Changes go through a pull request.
+- **A Google Sheet** (`pindev_requests`) is the runtime database: a row per request so the customer can track status.
 
 The flow, end to end:
 
